@@ -1,0 +1,114 @@
+-----------------------
+Campo: CD_CONTA
+-----------------------
+   Descri��o : C�digo da conta
+   Dom�nio   : Num�rico
+   Tipo Dados: varchar
+   Tamanho   : 18
+
+-----------------------
+Campo: CD_CVM
+-----------------------
+   Descri��o : C�digo CVM
+   Dom�nio   : Num�rico
+   Tipo Dados: char
+   Tamanho   : 6
+
+-----------------------
+Campo: CNPJ_CIA
+-----------------------
+   Descri��o : CNPJ da companhia
+   Dom�nio   : Alfanum�rico
+   Tipo Dados: varchar
+   Tamanho   : 18
+
+-----------------------
+Campo: DENOM_CIA
+-----------------------
+   Descri��o : Nome empresarial da companhia
+   Dom�nio   : Alfanum�rico
+   Tipo Dados: varchar
+   Tamanho   : 100
+
+-----------------------
+Campo: DS_CONTA
+-----------------------
+   Descri��o : Descri��o da conta
+   Dom�nio   : Alfanum�rico
+   Tipo Dados: varchar
+   Tamanho   : 100
+
+-----------------------
+Campo: DT_FIM_EXERC
+-----------------------
+   Descri��o : Data fim do exerc�cio social
+   Dom�nio   : AAAA-MM-DD
+   Tipo Dados: date
+   Tamanho   : 10
+
+-----------------------
+Campo: DT_REFER
+-----------------------
+   Descri��o : Data de refer�ncia do documento
+   Dom�nio   : AAAA-MM-DD
+   Tipo Dados: date
+   Tamanho   : 10
+
+-----------------------
+Campo: ESCALA_MOEDA
+-----------------------
+   Descri��o : Escala monet�ria
+   Dom�nio   : Alfanum�rico
+   Tipo Dados: varchar
+   Tamanho   : 100
+
+-----------------------
+Campo: GRUPO_DFP
+-----------------------
+   Descri��o : Nome e n�vel de agrega��o da demonstra��o
+   Dom�nio   : Alfanum�rico
+   Tipo Dados: varchar
+   Tamanho   : 206
+
+-----------------------
+Campo: MOEDA
+-----------------------
+   Descri��o : Moeda
+   Dom�nio   : Alfanum�rico
+   Tipo Dados: varchar
+   Tamanho   : 100
+
+-----------------------
+Campo: ORDEM_EXERC
+-----------------------
+   Descri��o : Ordem do exerc�cio social
+   Dom�nio   : Alfanum�rico
+   Tipo Dados: varchar
+   Tamanho   : 9
+
+-----------------------
+Campo: ST_CONTA_FIXA
+-----------------------
+   Descri��o : Indica se � conta fixa ou n�o
+   Dom�nio   : S/N
+   Tipo Dados: varchar
+   Tamanho   : 1
+
+-----------------------
+Campo: VERSAO
+-----------------------
+   Descri��o : Vers�o do documento
+   Dom�nio   : Num�rico
+   Tipo Dados: smallint
+   Precis�o  : 5
+   Scale     : 0
+
+-----------------------
+Campo: VL_CONTA
+-----------------------
+   Descri��o : Valor da conta
+   Dom�nio   : Num�rico
+   Tipo Dados: decimal
+   Precis�o  : 29
+   Scale     : 10
+
