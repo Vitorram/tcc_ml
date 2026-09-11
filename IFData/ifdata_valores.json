@@ -1,0 +1,17 @@
+{
+  "@odata.context": "string",
+  "value": [
+    {
+      "TipoInstituicao": 0,
+      "CodInst": "string",
+      "AnoMes": "string",
+      "NomeRelatorio": "string",
+      "NumeroRelatorio": "string",
+      "Grupo": "string",
+      "Conta": "string",
+      "NomeColuna": "string",
+      "DescricaoColuna": "string",
+      "Saldo": 0
+    }
+  ]
+}

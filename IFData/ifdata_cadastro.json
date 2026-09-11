@@ -1,0 +1,23 @@
+{
+  "@odata.context": "string",
+  "value": [
+    {
+      "CodInst": "string",
+      "Data": "string",
+      "NomeInstituicao": "string",
+      "DataInicioAtividade": 0,
+      "Tcb": "string",
+      "Td": "string",
+      "Tc": 0,
+      "SegmentoTb": "string",
+      "Atividade": "string",
+      "Uf": "string",
+      "Municipio": "string",
+      "Sr": "string",
+      "CodConglomeradoFinanceiro": "string",
+      "CodConglomeradoPrudencial": "string",
+      "CnpjInstituicaoLider": "string",
+      "Situacao": "string"
+    }
+  ]
+}

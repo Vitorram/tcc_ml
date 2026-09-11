@@ -1,0 +1,4 @@
+Documentação oficial do IFData - Banco Central do Brasil
+
+https://olinda.bcb.gov.br/olinda/servico/IFDATA/versao/v1/documentacao
+

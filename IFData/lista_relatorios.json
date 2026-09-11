@@ -1,0 +1,9 @@
+{
+  "@odata.context": "string",
+  "value": [
+    {
+      "NomeRelatorio": "string",
+      "NumeroRelatorio": "string"
+    }
+  ]
+}
