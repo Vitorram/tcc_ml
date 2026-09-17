@@ -1,0 +1,7 @@
+﻿Campo,Tipo,Descrição,Unidade
+entnome,String,Nome da companhia supervisionada da qual se deseja obter os valores das receitas técnicas-operacionais.,—
+cnpj,String,CNPJ da companhia supervisionada da qual se deseja obter as informações.,—
+mesreferencia,Date,Mês de referência das receitas técnicas-operacionais.,Data
+grupo,String,"Grupo de ramos do segmento, segundo a Circular SUSEP 535 ou posterior.",—
+ramo,String,"Ramo do segmento, segundo a Circular SUSEP 535 ou posterior.",—
+valor,Decimal,"Valor das receitas técnicas-operacionais, conforme o subrecurso: prêmios emitidos de seguros, contribuições de previdência ou prêmios de resseguro.",R$

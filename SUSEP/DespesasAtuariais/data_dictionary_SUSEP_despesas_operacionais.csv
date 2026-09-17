@@ -1,0 +1,7 @@
+﻿Campo,Tipo,Descrição,Unidade
+entnome,String,Nome da companhia supervisionada à qual se referem as informações de despesas técnicas-operacionais.,—
+cnpj,String,CNPJ da companhia supervisionada à qual se referem as informações.,—
+mesreferencia,Date,Data de referência das informações de despesas técnicas-operacionais.,Data
+grupo,String,"Grupo de ramos do segmento, conforme classificação da SUSEP; aplicável às despesas de seguros.",—
+ramo,String,"Ramo do segmento, conforme classificação da SUSEP; aplicável às despesas de seguros.",—
+valor,Decimal,"Valor da despesa técnica-operacional, podendo representar sinistros ocorridos, benefícios pagos ou resgates pagos conforme o subrecurso.",R$
