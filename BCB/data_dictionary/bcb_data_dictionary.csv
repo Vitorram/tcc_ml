@@ -1,0 +1,13 @@
+Campo,Tipo,Descrição,Unidade
+CnpjInstituicao,String,"CNPJ da instituição em liquidação extrajudicial, sem separadores.",—
+CnpjRaiz,String,"CNPJ Raiz da instituição, com 8 dígitos e sem separadores.",—
+NomeInstituicao,String,Nome da instituição em liquidação extrajudicial.,—
+Inicio,String,Data da decretação do regime de liquidação extrajudicial.,DD/MM/AAAA
+Tipo,String,"Tipo do regime de resolução: Liquidação Extrajudicial, Intervenção ou RAET.",—
+Responsavel,String,Nome do liquidante extrajudicial responsável pela instituição.,—
+Endereco,String,Endereço da instituição.,—
+Municipio,String,Município onde se localiza a instituição.,—
+UF,String,Unidade da Federação onde se localiza a instituição.,—
+CEP,String,Código de Endereçamento Postal da instituição.,—
+Emails,String,Lista de e-mails informados pela instituição para contato.,—
+Telefones,String,Lista de telefones informados pela instituição para contato.,—
